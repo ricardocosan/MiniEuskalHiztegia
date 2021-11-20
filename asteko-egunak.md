@@ -1,6 +1,6 @@
 ### **Asteko egunak** | *Dias da semana*
 
-| Euskara   | Erdera        | Esaldia                                       |
+| Euskara   | Erdara        | Esaldia                                       |
 | --------- | ------------- | --------------------------------------------- |
 | Astelehen | Segunda feira | **Astelehena** asteko lehen eguna da.         |
 | Astearte  | Terça feira   | **Asteartean** etxera joango naiz.            |
